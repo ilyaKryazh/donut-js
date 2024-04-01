@@ -1,0 +1,11 @@
+{
+  "name": "donut",
+  "version": "1.0.0",
+  "description": "donut.c",
+  "main": "donut.js",
+  "scripts": {
+    "start": "node donut.js"
+  },
+  "author": "Mist",
+  "license": "ISC"
+}
